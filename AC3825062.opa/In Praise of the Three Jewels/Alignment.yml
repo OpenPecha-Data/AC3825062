@@ -1,0 +1,31 @@
+segment_sources:
+  PF7A34B4B:
+    type: origin_type
+    relation: translation
+    language: en
+  P5B16B968:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  484a1ca52c244635af56904b178a5560:
+    PF7A34B4B: 82f0bc82de54430681d4e7ebe40016d7
+    P5B16B968: a0e717d3af5a42f7996fb19aec590449
+  4916a9e9f3ab40fcadcddea9e85253d0:
+    PF7A34B4B: 8a65ce0288c64d98b08cfd49e3df145d
+    P5B16B968: 58bd24a09da74d2a90547b23d282e7df
+  9ea9bbef7b4742bb8f036a688ade3ccc:
+    PF7A34B4B: faa138103f0f415299dff75a9436befc
+    P5B16B968: 6e0eabcf16a84a2486c781756aa10818
+  f1133629dfb540508930a68b9e3ea129:
+    PF7A34B4B: fb3b7b0ac46442ac88c350ddc951e6e5
+    P5B16B968: efc162a23d6d4e9cad70bc785557fc57
+  1d67cc14d2b0402aa56804103a6d3e32:
+    PF7A34B4B: b05d9dcf943c4d43a7f6aad7d7781803
+    P5B16B968: a6e18e755c634370b4e493c569e62a12
+  8533061a8dec4d5cb150c5567418d53a:
+    PF7A34B4B: cc9bff5c111a49a1b98da0272aa6cfbf
+    P5B16B968: 5d0b076f456e4bf99f551ade5a2d1a42
+  c6e494788f6d401891fe0b6a7521a3ba:
+    PF7A34B4B: bbe070bfb7f14397909ca5f940581e1b
+    P5B16B968: 33e199ce41aa4e09bb213a5a73e7501f
